@@ -1,0 +1,20 @@
+{	"SampleFileName": "visibility_08012020_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 11,
+	"ColName": {
+				"DATE" : "VARCHAR",
+				"VISIBILITY" : "FLOAT",
+				"DRYBULBTEMPF": "FLOAT",
+				"WETBULBTEMPF": "FLOAT",
+				"DewPointTempF" : "FLOAT",
+				"RelativeHumidity" : "FLOAT",
+				"WindSpeed" : "FLOAT",
+				"WindDirection" : "FLOAT",
+				"StationPressure" : "FLOAT",
+				"SeaLevelPressure" : "FLOAT",
+				"Precip" : "FLOAT"
+
+
+	}
+}

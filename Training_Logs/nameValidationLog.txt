@@ -1,0 +1,22 @@
+2020-02-14/20:42:45		Valid File name!! File moved to GoodRaw Folder :: visibility_08012020_120000.csv
+2020-02-15/16:35:14		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012013_120015.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012015_120017.csv
+2020-02-15/16:35:14		Invalid File Name!! File moved to Bad Raw Folder :: visibility_08012016_1200.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012016_120018.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012017_120019.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120021.csv
+2020-02-15/16:35:14		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:33		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:33		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-02-15/18:55:33		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-02-15/18:55:33		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:33		Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/visibility_082019_120021.csv'

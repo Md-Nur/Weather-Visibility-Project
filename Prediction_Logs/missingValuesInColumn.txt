@@ -1,0 +1,9 @@
+2020-02-15/15:57:48		Missing Values Validation Started!!
+2020-02-15/15:59:06		Missing Values Validation Started!!
+2020-02-15/15:59:28		Missing Values Validation Started!!
+2020-02-15/18:55:51		Missing Values Validation Started!!
+2020-02-15/18:55:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
+2020-03-11/19:45:16		Missing Values Validation Started!!
+2020-03-11/19:45:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012009_120011.csv
+2020-03-11/20:23:35		Missing Values Validation Started!!
+2020-03-11/20:23:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012009_120011.csv
